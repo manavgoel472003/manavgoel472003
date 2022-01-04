@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manavgoel472003
 - 👀 I’m interested in AI and AR/VR
 - 🌱 I’m currently learning Machine learning and Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any AI and ML related projects
 - 📫 How to reach me : Email : manavgoel47@gmail.com
 
 <!---
